@@ -16,7 +16,7 @@ const CartItem = ({name,price, quantity, description}) =>{
             <h3 className='cantP'> Cantidad: {quantity}</h3>
             <h3 className='precioProd'> Total: ${price * quantity }</h3>
             
-            
+                
            
         </div>
     );
