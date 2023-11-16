@@ -1,0 +1,31 @@
+
+.cart-item{
+   
+    text-align: start;
+    margin: 30px;
+    background-color: burlywood;
+    
+}
+
+.nombreProd{
+    font-size:large;
+    width: 200px;
+    color: rgb(0, 7, 7);
+    margin: 10px;
+    display: inline;
+    
+}
+.cantP{
+    display: inline;
+    color: black;
+    font-size:  medium;
+    margin: 10px;
+
+  
+} 
+.precioProd{
+    display: inline;
+    font-size: medium;
+    margin: 10px;
+
+}

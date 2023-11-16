@@ -1,0 +1,17 @@
+.carrito{
+    width: 60 px;
+    height: 60px;
+    position: relative;
+    left: 550px;
+    bottom: 150px;
+}
+.cantProd{
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    border-color: black;
+    position: relative;
+    left: 600px;
+    bottom: 190px;
+
+}

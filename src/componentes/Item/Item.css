@@ -1,0 +1,39 @@
+.CardItem{
+display: inline-block;
+height: 550px;
+width: 450px;
+ background-color: rgb(132, 143, 145);
+margin: 25px;
+
+
+
+}
+
+.ItemImg{
+    height: 200px;
+    width: 150px;
+    margin: 30px;
+}
+.itemHeader{
+    font-size: x-large;
+    
+    
+    color: rgb(145, 2, 102);
+    font-family: lucida sans;
+    padding: 15px;
+
+}
+
+.option{
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 25px;
+
+
+}
+.info{
+    font-style: italic;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif; 
+    color:rgb(163, 237, 255);
+}
